@@ -1,0 +1,18 @@
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore build output (compiled files, etc.)
+/build/
+*.o
+*.out
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.swp
+*.bak
+
+# Ignore any compiled executable files (e.g., a.out, .exe)
+*.exe
